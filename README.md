@@ -1,4 +1,3 @@
-[TOC]
 Mini-Search-Engine
 ==================
 
